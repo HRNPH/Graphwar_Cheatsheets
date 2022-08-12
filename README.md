@@ -3,7 +3,7 @@ Graphwar_Cheatsheets for SNIPERGOD
 
 ## Function
 ### Exponential_sin
-[![RotaSin](https://github.com/HRNPH/Graphwar_Cheatsheets/blob/main/image/sin_rotation.png)](https://github.com/HRNPH/Graphwar_Cheatsheets/blob/main/function/exponential_sin.md)
+[![Sword Of God](https://github.com/HRNPH/Graphwar_Cheatsheets/blob/main/image/sin_exponential(sword%20of%20god).png)](https://github.com/HRNPH/Graphwar_Cheatsheets/blob/main/function/exponential_sin.md)
 
 ### Rotate_sin
 [![RotaSin](https://github.com/HRNPH/Graphwar_Cheatsheets/blob/main/image/sin_rotation.png)](https://github.com/HRNPH/Graphwar_Cheatsheets/blob/main/function/rotate_sin.md)
