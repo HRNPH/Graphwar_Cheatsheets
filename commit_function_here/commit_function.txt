@@ -1,0 +1,2 @@
+-- Just Add Your Function Here if you don't have Time and I'll Wirte It for You ---
+# ax+b // a is axis and b is the intercept <-- format
