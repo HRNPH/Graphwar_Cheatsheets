@@ -4,3 +4,4 @@
 `
 y = ((x * axis + slide))^2 + sin(x*interval) * width
 `
+[![Sinrabola](https://github.com/HRNPH/Graphwar_Cheatsheets/blob/main/image/sin_parabola(curvy_wave).png](https://github.com/HRNPH/Graphwar_Cheatsheets/blob/main/image/sin_parabola(curvy_wave).png)

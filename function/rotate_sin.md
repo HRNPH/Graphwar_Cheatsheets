@@ -4,3 +4,4 @@
 `
 y = (axis*x) + sin(x*interval) * size
 `
+[![RotaSin](https://github.com/HRNPH/Graphwar_Cheatsheets/blob/main/image/sin_rotation.png)](https://github.com/HRNPH/Graphwar_Cheatsheets/blob/main/image/sin_rotation.png)
